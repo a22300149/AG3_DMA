@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "962730693260",
+    "firebase_url": "https://login-demo-453da-default-rtdb.firebaseio.com",
     "project_id": "login-demo-453da",
     "storage_bucket": "login-demo-453da.firebasestorage.app"
   },
