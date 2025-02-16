@@ -70,7 +70,7 @@ class _HomePageState extends State<HomePage> {
             Padding(
               padding: const EdgeInsets.only(left: 10),
               child: Text(
-                "Sign in with Google",
+                "Inicia sesión con Google",
                 style: TextStyle(fontSize: 20, color: Colors.grey),
               ),
             ),
